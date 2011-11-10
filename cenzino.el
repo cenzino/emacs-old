@@ -7,3 +7,4 @@
 
 ;; Settaggi -------------------------------------------------------------
 (load "settings/global")
+(load "settings/python")

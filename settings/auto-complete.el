@@ -3,4 +3,4 @@
 (add-to-list 'ac-dictionary-directories "~/.emacs.d/extensions/auto-complete/ac-dict")
 (ac-config-default)
 (setq ac-delay 0.1)
-(ac-fuzzy-complete)
+;;(ac-fuzzy-complete)

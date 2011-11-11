@@ -8,3 +8,4 @@
 ;; Settaggi -------------------------------------------------------------
 (load "settings/global")
 (load "settings/python")
+(load "settings/auto-complete")

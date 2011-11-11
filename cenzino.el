@@ -9,3 +9,4 @@
 (load "settings/global")
 (load "settings/python")
 (load "settings/auto-complete")
+(load "settings/yasnippet.el")
